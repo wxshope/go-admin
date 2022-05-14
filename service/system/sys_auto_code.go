@@ -19,9 +19,9 @@ import (
 
 	"github.com/wxshope/go-admin/resource/autocode_template/subcontract"
 
-	"github.com/wxshope/go-admin/server/global"
-	"github.com/wxshope/go-admin/server/model/system"
-	"github.com/wxshope/go-admin/server/utils"
+	"github.com/wxshope/go-admin/global"
+	"github.com/wxshope/go-admin/model/system"
+	"github.com/wxshope/go-admin/utils"
 
 	"gorm.io/gorm"
 )

@@ -2,7 +2,7 @@ package utils
 
 import (
 	"github.com/wxshope/go-admin/global"
-	systemReq "github.com/wxshope/go-adminr/model/system/request"
+	systemReq "github.com/wxshope/go-admin/model/system/request"
 	"github.com/gin-gonic/gin"
 	uuid "github.com/satori/go.uuid"
 )

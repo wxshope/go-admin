@@ -6,7 +6,7 @@ import (
 	"mime/multipart"
 	"time"
 
-	"github.com/wxshope/go-adminglobal"
+	"github.com/wxshope/go-admin/global"
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
