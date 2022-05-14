@@ -1,9 +1,9 @@
 package router
 
 import (
+	"github.com/gin-gonic/gin"
 	"github.com/wxshope/go-admin/middleware"
 	"github.com/wxshope/go-admin/plugin/email/api"
-	"github.com/gin-gonic/gin"
 )
 
 type EmailRouter struct{}

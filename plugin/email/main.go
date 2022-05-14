@@ -1,9 +1,9 @@
-github.com/wxshope/go-adminpackage email
+package email
 
 import (
+	"github.com/gin-gonic/gin"
 	"github.com/wxshope/go-admin/plugin/email/global"
 	"github.com/wxshope/go-admin/plugin/email/router"
-	"github.com/gin-gonic/gin"
 )
 
 type emailPlugin struct{}

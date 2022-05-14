@@ -1,11 +1,11 @@
-github.com/wxshope/go-adminpackage api
+package api
 
 import (
+	"github.com/gin-gonic/gin"
 	"github.com/wxshope/go-admin/global"
 	"github.com/wxshope/go-admin/model/common/response"
 	email_response "github.com/wxshope/go-admin/plugin/email/model/response"
 	"github.com/wxshope/go-admin/plugin/email/service"
-	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )
 
